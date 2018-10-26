@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "92120280433",
+    "firebase_url": "https://exitus-e18c3.firebaseio.com",
+    "project_id": "exitus-e18c3",
+    "storage_bucket": "exitus-e18c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92120280433:android:0c4e9f4aae8d3b16",
+        "android_client_info": {
+          "package_name": "com.example.beaver.exitus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92120280433-imh6dkh0l34591fr514tpqbpi0jij5sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFPAlgo3lYx-phD-cEmmdLFOmO21NnKRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
